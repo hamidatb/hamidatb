@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cartoon-image.ppng" alt="Cartoon Image of Me" width="1000"/>
+  <img src="cartoon-image.png" alt="Cartoon Image of Me" width="1000"/>
 </div>
 
 <h1 align="center">Hi 👋🏾, I'm Hamidat</h1>
