@@ -32,7 +32,6 @@
 
 <div align="center">
   <a href="https://github.com/hamidatb">
-    <img src="https://github-readme-stats.vercel.app/api?username=hamidatb&show_icons=true&locale=en&theme=github_dark" height="150" alt="hamidatb" />&nbsp;&nbsp;
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidatb&theme=dark" height="150" alt="hamidatb" />&nbsp;&nbsp;
   </a>
 </div>
