@@ -83,6 +83,6 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidatb&theme=dark" alt="hamidatb" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hamidatb&theme=dark" alt="hamidatb" />
 </p>
 
