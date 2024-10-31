@@ -10,11 +10,11 @@
 </p>
 
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/hamidatb/SignSpell-AI">SignSpell AI</a></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/hamidatb/Auriel">Auriel</a></li>
   <li>👯 I’m looking to collaborate on <strong>Open Source Projects and Hackathons</strong></li>
   <li>👨‍💻 You can find my favorite projects on my portfolio: <a href="https://hamidatb.github.io">hamidatb.github.io</a></li>
   <li>📫 How to reach me regarding projects: <strong>hami.develops@gmail.com</strong></li>
-  <li>⚡ Fun fact: I run a web platform called <a href="https://athenacodes.org">AthenaCodes.org</a>! Check it out :)</li>
+  <li>⚡ Fun fact: I run a web platform called <a href="https://athenacodes.org">AthenaCodes.org</a>!  which compiles resources and opportunities for women in Computer Science. Check it out and feel free to send me feedback :)</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
