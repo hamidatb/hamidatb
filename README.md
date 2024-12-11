@@ -82,3 +82,6 @@
   </a>
 </p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=hamidatb&theme=dark" alt="Hamidatb Streak" /></a>
+<p></p>
+<p> <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+-> Some jokes :) </p>
