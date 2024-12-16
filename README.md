@@ -81,7 +81,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=hamidatb&theme=dark" alt="Hamidatb Streak" /></a>
+<a href="(https://streak-stats.demolab.com/?user=hamidatb&theme=dark)"><img src="https://streak-stats.demolab.com/?user=hamidatb&theme=dark" alt="Hamidatb Streak" /></a>
 <p></p>
 <p> <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 -> Some jokes :) </p>
