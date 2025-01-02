@@ -10,7 +10,7 @@
 </p>
 
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/hamidatb/Auriel">Auriel</a></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/hamidatb/SpectrumSync">SpectrumSync</a></li>
   <li>👯 I’m looking to collaborate on <strong>Open Source Projects and Hackathons</strong></li>
   <li>👨‍💻 You can find my favorite projects on my portfolio: <a href="https://hamidatb.github.io">hamidatb.github.io</a></li>
   <li>📫 How to reach me regarding projects: <strong>hami.develops@gmail.com</strong></li>
@@ -83,5 +83,4 @@
 </p>
 <a href="(https://streak-stats.demolab.com/?user=hamidatb&theme=dark)"><img src="https://streak-stats.demolab.com/?user=hamidatb&theme=dark" alt="Hamidatb Streak" /></a>
 <p></p>
-<p> <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
--> Some jokes :) </p>
+
