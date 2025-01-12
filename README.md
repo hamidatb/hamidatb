@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi <img src="waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" alt="Waving hand emoji" width="40" height="40">, I'm Hamidat</h1>
-<h3 align="center">I'm a Computing Science Specialization student at the University of Alberta. I'm passionate about building impactful software and harnessing technology to spark positive social change.</h3>
+<h3 align="center">I'm a 3rd Year Computing Science Specialization student at the University of Alberta. I'm passionate about building impactful software and harnessing technology to spark positive social change.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hamidatb&label=Reads&color=ffb8f2&style=flat-square" alt="hamidatb" />
@@ -11,9 +11,9 @@
 
 <ul>
   <li>🔭 I’m currently working on <a href="https://github.com/hamidatb/SpectrumSync">SpectrumSync</a></li>
+  <li>🌱 I’m currently learning  <strong>Cloud Backend Development with Azure, RESTful APIs, DevOps – Implementing CI/CD pipelines </strong>, and much more!
   <li>👯 I’m looking to collaborate on <strong>Open Source Projects and Hackathons</strong></li>
   <li>👨‍💻 You can find my favorite projects on my portfolio: <a href="https://hamidatb.github.io">hamidatb.github.io</a></li>
-  <li>📫 How to reach me regarding projects: <strong>hami.develops@gmail.com</strong></li>
   <li>⚡ Fun fact: I founded and run a web platform called <a href="https://athenacodes.org">AthenaCodes.org</a>!  AthenCodes compiles resources and opportunities for women in Computer Science. Check it out and feel free to send me feedback :)</li>
 </ul>
 
