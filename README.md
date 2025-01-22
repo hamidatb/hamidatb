@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cartoon-image.png" alt="Cartoon Image of Me" width="600"/>
+  <img src="cartoon-image.png" alt="Cartoon Image of Me" width="500"/>
 </div>
 
 <h1 align="center">Hi <img src="waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" alt="Waving hand emoji" width="40" height="40">, I'm Hamidat</h1>
