@@ -10,7 +10,7 @@
 </p>
 
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/hamidatb/SpectrumSync">SpectrumSync</a></li>
+  <li>🔭 I’m currently building <a href="https://github.com/hamidatb/SpectrumSync">SpectrumSync</a></li>
   <li>🌱 I’m currently learning  <strong>Cloud Backend Development with Azure, RESTful APIs, DevOps – Implementing CI/CD pipelines </strong>, and much more!
   <li>👯 I’m looking to collaborate on <strong>Open Source Projects and Hackathons</strong></li>
   <li>👨‍💻 You can find my favorite projects on my portfolio: <a href="https://hamidatb.github.io">hamidatb.github.io</a></li>
