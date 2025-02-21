@@ -12,7 +12,7 @@
   <li>🌱 Right now I'm exploring <strong>Cloud Development, RESTful APIs, DevOps</strong>, and more!
   <li>👯 I’m looking to collaborate on <strong>Open Source Projects and Hackathons</strong></li>
   <li>⚡ Fun fact: I founded and run a web platform called <a href="https://athenacodes.org">AthenaCodes.org</a>!  AthenCodes compiles resources and opportunities for women in Computer Science. Check it out and feel free to send me feedback :)
-  <li>Note: I do not have X (formerly Twitter). I can be reached on LinkedIn or GitHub</li>
+  <li>Note: I do not have X (formerly Twitter)</li>
   </li>
 </ul>
 
