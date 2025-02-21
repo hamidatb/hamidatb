@@ -12,6 +12,7 @@
 </p>
 
 <ul>
+  <li> I do not have X (formerly Twitter).</li>
   <li>🔭 I’m currently building <a href="https://github.com/hamidatb/SpectrumSync">SpectrumSync</a></li>
   <li>🌱 Right now I'm exploring <strong>Cloud Development, RESTful APIs, DevOps</strong>, and more!
   <li>👯 I’m looking to collaborate on <strong>Open Source Projects and Hackathons</strong></li>
