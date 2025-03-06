@@ -10,7 +10,7 @@
 <ul>
   <li>🔭 I’m currently building <a href="https://github.com/hamidatb/SpectrumSync">SpectrumSync</a></li>
   <li>🌱 Right now I'm exploring <strong>Cloud Development, RESTful APIs, DevOps</strong>, and more!
-  <li>⚡ Fun fact: I founded and run a web platform called <a href="https://athenacodes.org">AthenaCodes.org</a>!  AthenCodes compiles resources and opportunities for women in Computer Science. Check it out and feel free to send me feedback :)
+  <li>⚡ Fun fact: I founded and run a web platform called <a href="https://athenacodes.org">AthenaCodes.org</a>!  AthenaCodes compiles resources for women in Computer Science. Check it out and feel free to send me feedback :)
   </li>
 </ul>
 
