@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hamidat <img src="waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" alt="Waving hand emoji" width="40" height="40"></h1>
-<h3 align="center">I'm a 3rd Year Computing Science Specialization student at the University of Alberta who is passionate about building impactful software and harnessing technology to spark positive social change :) </h3>
+<h3 align="center">I'm a 4th Year Computing Science Specialization student at the University of Alberta who is passionate about building impactful software and harnessing technology to spark positive social change :) </h3>
   <h4 align="center">My portfolio: <a href="https://hamidatb.github.io">hamidatb.github.io</a></h4>
 <ul>
   <li>🔭 I’m currently building <a href="https://github.com/hamidatb/SpectrumSync">SpectrumSync</a></li>
