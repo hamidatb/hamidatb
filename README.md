@@ -2,6 +2,7 @@
 <h3 align="center">I'm a 4th Year Computing Science Specialization student at the University of Alberta who is passionate about building impactful software and harnessing technology to spark positive social change :) </h3>
   <h4 align="center">My portfolio: <a href="https://hamidatb.github.io">hamidatb.github.io</a></h4>
 <ul>
+    <li>🔭 I’m currently building <a href="https://github.com/hamidatb/FluteVision">FluteVison</a></li>
   <li>🌱 Right now I'm exploring <strong>Cloud Development, RESTful APIs, LangChain</strong>, and more!
   <li>⚡ Fun fact: I founded and run a web platform: <a href="https://athenacodes.org">AthenaCodes.org</a>! AthenaCodes compiles resources for women in Computer Science. Check it out and feel free to send me feedback :)
   </li>
