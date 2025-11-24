@@ -3,7 +3,7 @@
   <h4 align="center">My portfolio: <a href="https://hamidatb.github.io">hamidatb.github.io</a></h4>
 <ul>
     <li>🔭 I’m currently building <a href="https://github.com/hamidatb/FluteVision">FluteVison</a></li>
-  <li>🌱 Right now I'm exploring <strong>Cloud Development, RESTful APIs,</strong>, and more!
+  <li>🌱 Right now I'm exploring <strong>Cloud Development, RESTful APIs,</strong>, and more! 
   <li>⚡ Fun fact: I founded and run a web platform: <a href="https://athenacodes.org">AthenaCodes.org</a>! AthenaCodes compiles resources for women in Computer Science. Check it out and feel free to send me feedback :)
   </li>
 </ul>
@@ -46,9 +46,6 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
