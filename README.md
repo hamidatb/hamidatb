@@ -4,7 +4,7 @@
 <ul>
     <li>🔭 I’m currently building <a href="https://github.com/hamidatb/FluteVision">FluteVison</a></li>
   <li>🌱 Right now I'm exploring <strong>Cloud Development, RESTful APIs,</strong>, and more! 
-  <li>⚡ Fun fact: I founded and run a web platform: <a href="https://athenacodes.org">AthenaCodes.org</a>! AthenaCodes compiles resources for women in Computer Science. Check it out and feel free to send me feedback :)  
+  <li>⚡ Fun fact: I founded and run a web platform: <a href="https://athenacodes.org">AthenaCodes.org</a>! AthenaCodes compiles resources for women in Computer Science. Check it out and feel free to send me feedback  :)  
   </li>
 </ul>
 
@@ -30,10 +30,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
